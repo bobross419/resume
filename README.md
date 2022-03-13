@@ -3,23 +3,26 @@ bennett.alder.novak@gmail.com
 github.com/bobross419  
 
 ### Work Experience
-#### KAR Global Site Reliability Engineer Sep 2019 - Present
+#### Subspace Senior DevOps Engineer Aug 2020 - Present
+- Accelerated the fastest global network rollout by reducing PoP provisioning time from an average of 6 weeks to 4 hours.
+- Established and maintained best practices for ansible across the company.
+- Functioned as lead engineer for self hosted Ansible Tower (AWX).
+- Managed CICD release processes for software and system upgrades.
+- Administered Linux packaging pipelines and repositories.
+- Created quality of life pipelines for engineering staff to self service access control.
+- Assisted with the development and implementation of operational maturity strategies.
+
+#### KAR Global Site Reliability Engineer Sep 2019 - Jun 2020
 - Assisted application development teams with migration to Kubernetes/Openshift.
-- Collaborated with application developers to troubleshoot Kubernetes performance issues.
 - Provided best practice guidance to the operations organization on supporting Openshift workloads.
-- Developed Helm exercises to teach Openshift troubleshooting principles.
 
 #### Rackspace Site Reliability Engineer Aug 2017 - Sep 2019
 - Managed three Openshift clusters spanning 600 developers across 300 internal projects.
-- Accelerated the version release pipeline from 2 months for one upgrade to 4 upgrades in a month.
 - Developed a configuration as code pipeline for Openshift admin configurations.
-- Refactored Openshift cluster deployment and ops strategies to include cloud native design practices.
-- Provided a talk at an internal conference on 12 Factor methodologies.
-- Engineered automation solutions leveraging Ansible, Terraform, Openshift, and VMWare including functional node testing.
-- Collaborated with multiple business units and leadership teams.
-- Assisted developers in engineering decisions and cloud native best practices.
-- Worked with an interdeparmental team driving cultural change among technical staff.
-- Drove cultural change within the ops organization to adopt SRE and operational maturity principles.
+- Accelerated the version release pipeline from 2 months for one upgrade to 4 upgrades in a month.
+- Automated Openshift node deployment and testing leveraging ansible and terraform on VMWare.
+- Worked with an interdepartmental team driving cultural change among technical staff.
+- Spoke at an internal conference on 12 Factor methodologies.
 - Received inter-org award for collaboration with development teams.
 - Mentored junior engineers within the ops organization.
 
@@ -27,19 +30,17 @@ github.com/bobross419
 - Functioned as lead engineer overseeing two mesos-marathon clusters.
 - Served as lead engineer overseeing multiple python based internal application stacks.
 - Developed ansible playbooks for configuration management and maintenance orchestration.
-- Collaborated with development teams to architect infrastructure spanning on premise vCloud, Docker, and AWS resources.
-- Built automation to alleviate alert response overhead via Jenkinsfile pipelines.
-- Created in depth application stack run books enabling operations personel to quickly understand and respond to issues.
-- Began implementation of SRE concepts including error budgeting and blameless culture.
+- Collaborated with development teams to architect infrastructure spanning on premise vCloud and AWS.
+- Automated alert resolution with Jenkins pipelines to reduce MTTR for impacting events.
 
 #### Rackspace DevOps Engineer - Jun 2014 – Sept 2016
 - Supported clients using modern technologies and methodologies. 
 - Managed multiple client environments leveraging Chef or AWS for configuration management and autoscaling.
 - Utilized Rackspace and AWS APIs to manage client environments. 
-- Implemented rspec unit testing to fascilitate test driven development and CI/CD processes via Jenkins.  
+- Implemented rspec unit testing and CI/CD processes for Chef cookbooks.  
 
 #### Rackspace Linux Systems Administrator - Oct 2012 - Jun 2014
-- Expanded the existing maintenance framework to provide additional details for various upgrade/replacement processes.
+- Expanded the existing maintenance framework to provide repeatable processes for common tasks.
 - Trained junior admins in various aspects of systems administration. 
 - Worked with customers to architect robust hybrid environments.
   
@@ -60,3 +61,7 @@ github.com/bobross419
 #### Red Hat Certified Engineer - 130-007-685 (Expired)
 - RHCSA (Jan 2013)
 - RHCE (Feb 2013)
+
+#### USMC (Expired)
+- Forklift Operator License (2001)
+- Hazmat First Responders Certification (2003)

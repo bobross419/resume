@@ -3,7 +3,12 @@ bennett.alder.novak@gmail.com
 github.com/bobross419  
 
 ### Work Experience
-#### Subspace Senior DevOps Engineer Aug 2020 - Present
+#### Fox Robotics Infrastructure Team Lead May 2022 - Present
+- Established a heightened security posture for corporate IT, Google Cloud, and IoT fleet deployments.
+- Reduced manufacturing workflow delays and incident MTTR up to 48 hours by creating Jira workflow automation.
+- Created procedures improving employee onboarding and offboarding times from a week to a single day.
+
+#### Subspace Senior DevOps Engineer Aug 2020 - May 2022
 - Accelerated the fastest global network rollout by reducing PoP provisioning time from an average of 6 weeks to 4 hours.
 - Established and maintained best practices for ansible across the company.
 - Functioned as lead engineer for self hosted Ansible Tower (AWX).
@@ -61,7 +66,3 @@ github.com/bobross419
 #### Red Hat Certified Engineer - 130-007-685 (Expired)
 - RHCSA (Jan 2013)
 - RHCE (Feb 2013)
-
-#### USMC (Expired)
-- Forklift Operator License (2001)
-- Hazmat First Responders Certification (2003)

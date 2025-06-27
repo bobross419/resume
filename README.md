@@ -3,10 +3,18 @@ bennett.alder.novak@gmail.com
 github.com/bobross419  
 
 ### Work Experience
-#### Fox Robotics Infrastructure Team Lead May 2022 - Present
+#### Fox Robotics Senior Robot Infrastructure Engineer May 2022 - Present
+- Oversaw the selection and implementation of ISO27001:2022 for the entire organization.
+- Deployed and administered Ansible Automation Mesh to manage resources on customer restricted networks.
+- Developed a Python based dynamic inventory for Ansible using a proprieatary REST backend.
+- Automated code and document gathering procedures for code escrow initiatives.
+- Designed and implemented automation to create cloud VMs for end users to view robot playback logs.
 - Established a heightened security posture for corporate IT, Google Cloud, and IoT fleet deployments.
+- Implemented reduced trust IAM roles to facilitate access management.
 - Reduced manufacturing workflow delays and incident MTTR up to 48 hours by creating Jira workflow automation.
 - Created procedures improving employee onboarding and offboarding times from a week to a single day.
+- Conducted cost and security audits of cloud and physical resources.
+- Lead backlog grooming and team sprint planning sessions while engaging with leadership teams to align on company objectives.
 
 #### Subspace Senior DevOps Engineer Aug 2020 - May 2022
 - Accelerated the fastest global network rollout by reducing PoP provisioning time from an average of 6 weeks to 4 hours.
